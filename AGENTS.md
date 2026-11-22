@@ -24,6 +24,7 @@ ship without Tampermonkey. That is noted as a possible follow-up in TASKS.md.
 - `counter.user.js` is the userscript. To install it, open Tampermonkey, choose
   "Create a new script", paste the file in, and save.
 - `TASKS.md` is the task list. Keep it current: tick finished items and add new ones.
+- `PROMPT.md` lists every prompt used to build the script. Add each new prompt to it.
 
 ## Behaviour
 - A faint round `#` launcher sits in the bottom-right corner. Clicking it opens the panel.
